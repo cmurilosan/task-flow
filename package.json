@@ -1,0 +1,24 @@
+{
+  "name": "task-flow",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto prático de DevOps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmurilosan/task-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cmurilosan/task-flow/issues"
+  },
+  "homepage": "https://github.com/cmurilosan/task-flow#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
